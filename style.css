@@ -21,7 +21,9 @@ nav a{
   padding: 10px;
   margin: auto
 }
-fi
+figcaption{
+  text-align: center;
+}
 
 p{
   text-align: center;
