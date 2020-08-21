@@ -16,7 +16,9 @@ img{
   display: block;
   margin: auto;
 }
-nav a
+nav a{
+  text-align: center
+}
 
 p{
   text-align: center;
